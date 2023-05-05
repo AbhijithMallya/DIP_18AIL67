@@ -9,12 +9,10 @@ This repository contains a collection of programs written in Python for digital 
 This program reads a digital image and splits it into four quadrants, displaying them separately. The four quadrants will be: up, down, right and left.
 
 ### Implementation
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/91281454/236375931-6dc5731c-94dc-475b-a46a-6cdb2cbe64ed.png" height="500" width="500">
-  <img src="https://user-images.githubusercontent.com/91281454/236375931-6dc5731c-94dc-475b-a46a-6cdb2cbe64ed.png" height="500" width="500">
+<div >
+  <img src="https://user-images.githubusercontent.com/91281454/236377329-bacd3ea6-d84f-4b7b-807d-003c944c8f25.png" height="300" width="300">
+  <img src="https://user-images.githubusercontent.com/91281454/236375931-6dc5731c-94dc-475b-a46a-6cdb2cbe64ed.png" height="300" width="300">
 </div>
-
 
 ## 2. Image Rotation, Scaling and Translation
 
