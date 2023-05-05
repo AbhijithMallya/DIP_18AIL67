@@ -10,7 +10,11 @@ This program reads a digital image and splits it into four quadrants, displaying
 
 ### Implementation
 
-[To be added]
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/91281454/236375931-6dc5731c-94dc-475b-a46a-6cdb2cbe64ed.png" height="500" width="500">
+  <img src="https://user-images.githubusercontent.com/91281454/236375931-6dc5731c-94dc-475b-a46a-6cdb2cbe64ed.png" height="500" width="500">
+</div>
+
 
 ## 2. Image Rotation, Scaling and Translation
 
